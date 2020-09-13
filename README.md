@@ -30,10 +30,9 @@ I'm Software engineer and a computer science student. In my spare time, I love c
 
 <details>
   <summary><b>:telescope: 2020 goal</b></summary>
-  - Write weekly about what I like.<br>
+  - Write weekly in my blog <br>
   - Be more involved in social communities.. Do you have any in mind? Please let me know.<br>
-  - <del>Make a talk in a JS Conference.</del><br>
-  - To know better other topics beyond computer science like: Politics, Culinary, Art, History...<br>  
+  - <del>Make a talk in a JS Conference.</del><br> 
   - Understand more topics beyond front-end ecosystem, like: distributed systems(currently learning).<br> 
   - Rewrite a framework or library from scratch in a different language(like rust that currently I don't know).<br>    
 </details>
