@@ -33,8 +33,7 @@ I'm Software engineer and a computer science student. In my spare time, I love c
   - Write weekly in my blog <br>
   - Be more involved in social communities.. Do you have any in mind? Please let me know.<br>
   - <del>Make a talk in a JS Conference.</del><br> 
-  - Understand more topics beyond front-end ecosystem, like: distributed systems(currently learning).<br> 
-  - Rewrite a framework or library from scratch in a different language(like rust that currently I don't know).<br>    
+  - Understand more topics beyond front-end ecosystem, like: distributed systems(currently learning).<br>   
 </details>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
