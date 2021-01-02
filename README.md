@@ -36,5 +36,3 @@ I'm Software engineer and a computer science student. In my spare time, I love c
   - Understand more topics beyond front-end ecosystem, like: distributed systems(currently learning).<br>   
 </details>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
