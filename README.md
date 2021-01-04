@@ -20,7 +20,7 @@ I'm Software engineer and a computer science student. In my spare time, I love c
 <samp>
 <br><br>
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/fanny-vieira)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fanny-vieira)
 [![dev.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat-square&logo=dev-dot-to&logoColor=white)](https://dev.to/fannyvieira)
 [![email](https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:fannyvieira082@gmail.com)
 
