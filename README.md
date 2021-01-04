@@ -20,7 +20,7 @@ I'm Software engineer and a computer science student. In my spare time, I love c
 <samp>
 <br><br>
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fannyvieira/)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/fanny-vieira)
 [![dev.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat-square&logo=dev-dot-to&logoColor=white)](https://dev.to/fannyvieira)
 [![email](https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:fannyvieira082@gmail.com)
 
@@ -28,11 +28,4 @@ I'm Software engineer and a computer science student. In my spare time, I love c
   <img src="https://github-readme-stats.vercel.app/api?username=fanny&count_private=true&show_icons=true&theme=graywhite"/>
 </div>
 
-<details>
-  <summary><b>:telescope: 2020 goal</b></summary>
-  - Write weekly in my blog <br>
-  - Be more involved in social communities.. Do you have any in mind? Please let me know.<br>
-  - <del>Make a talk in a JS Conference.</del><br> 
-  - Understand more topics beyond front-end ecosystem, like: distributed systems(currently learning).<br>   
-</details>
 
