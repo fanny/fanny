@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2>Hi, I'm Fanny Vieira! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
 
 <samp>
-I'm Software engineer and a computer science student. In my spare time, I love contribute to open source, write about my experiences in my blog, cook and take a ride on my bike.
+I'm a Software engineer and a computer science student. In my spare time, I love contribute to open source, write about my experiences in my blog, cook and take a ride on my bike.
 <samp>
 <br><br>
 
